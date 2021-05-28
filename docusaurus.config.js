@@ -35,7 +35,7 @@ module.exports = {
       disableSwitch: true,
     },
     googleAnalytics: {
-      trackingID: 'G-C0PNLG8S09',
+      trackingID: 'UA-198032639-1',
     },
   },
   presets: [
