@@ -1,1 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://yohan-ko.com/posts/init/</loc><lastmod>2021-06-11T06:21:33+09:00</lastmod></url><url><loc>https://yohan-ko.com/posts/</loc><lastmod>2021-06-11T06:21:33+09:00</lastmod></url><url><loc>https://yohan-ko.com/</loc><lastmod>2021-06-11T06:21:33+09:00</lastmod></url><url><loc>https://yohan-ko.com/categories/</loc></url><url><loc>https://yohan-ko.com/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://yohan-ko.com/tags/embedding/</loc>
+    <lastmod>2021-06-15T15:46:33+09:00</lastmod>
+  </url><url>
+    <loc>https://yohan-ko.com/tags/go/</loc>
+    <lastmod>2021-06-15T15:46:33+09:00</lastmod>
+  </url><url>
+    <loc>https://yohan-ko.com/tags/oop/</loc>
+    <lastmod>2021-06-15T15:46:33+09:00</lastmod>
+  </url><url>
+    <loc>https://yohan-ko.com/posts/go-oop/</loc>
+    <lastmod>2021-06-15T15:46:33+09:00</lastmod>
+  </url><url>
+    <loc>https://yohan-ko.com/posts/</loc>
+    <lastmod>2021-06-15T15:46:33+09:00</lastmod>
+  </url><url>
+    <loc>https://yohan-ko.com/tags/</loc>
+    <lastmod>2021-06-15T15:46:33+09:00</lastmod>
+  </url><url>
+    <loc>https://yohan-ko.com/</loc>
+    <lastmod>2021-06-15T15:46:33+09:00</lastmod>
+  </url><url>
+    <loc>https://yohan-ko.com/categories/</loc>
+  </url>
+</urlset>
